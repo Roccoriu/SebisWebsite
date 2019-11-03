@@ -35,6 +35,12 @@
     background-color: #f5f5f5;
 }
 
+.reasons {
+    margin-top: 5em;
+    margin-left: 25px;
+}
+
+
 .footer>div>a {
     margin-left: 40px;
 }
@@ -51,6 +57,6 @@
 }
 
 
-.position{
+.position {
     font-size: 1.5em;
 }
