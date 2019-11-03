@@ -4,6 +4,7 @@
     text-align: left;
 }
 
+
 .car-title {
     text-align: left;
 }
@@ -36,4 +37,20 @@
 
 .footer>div>a {
     margin-left: 40px;
+}
+
+
+.contact-details {
+    margin-top: 3em;
+    padding-left: 25px;
+    text-align: center;
+}
+
+.contact-details>div {
+    margin-bottom: 7em;
+}
+
+
+.position{
+    font-size: 1.5em;
 }
